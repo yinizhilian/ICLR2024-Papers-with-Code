@@ -6,9 +6,7 @@
 
 >知乎地址：[**ShuYini**](https://www.zhihu.com/people/wangjini521/activities)
 
->微信公众号: [**AINLPer**（**每日更新，欢迎关注**）](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247487079&idx=1&sn=4aa0c38c7701148f28f67bc66a291b00&chksm=fac399bbcdb410ad4517460b96a071c08c3854d67d1beafa4caa424e9c12791dc1955be1f56e&token=802874842&lang=zh_CN#rd)
-
-
+>微信公众号: [**AINLPer**（**每日更新，欢迎关注**）](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247493926&idx=1&sn=7c3af9a58296f10173b3eba3bec15137&chksm=fac07efacdb7f7ec6f879dad43d5c3dd9af8950ba65faa3cea3f8cbef8208adae2449ec29327&token=890750657&lang=zh_CN#rd)
 
 ### Accept poster
 
