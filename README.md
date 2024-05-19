@@ -8,7 +8,7 @@
 ## 历年ICLR 论文和开源项目合集
 - [**ICLR 2023 论文和开源项目合集**](./ICLR2023-Papers-with-Code.md)
 - [**ICLR 2022 论文和开源项目合集**](./ICLR2022-Papers-with-Code.md)
-
+- [**ICLR 2021 论文和开源项目合集**](./ICLR2021-Papers-with-Code.md)
 
 ## ICLR2024 Accept Paper
 
