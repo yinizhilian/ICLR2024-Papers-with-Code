@@ -1,273 +1,16 @@
-### Accept Oral
+# ICLR 2021 论文和开源项目合集
 
-1、Complex Query Answering with Neural Link Predictors
+>本仓库旨在收集ICLR最新研究进展，尤其是LLM方面，涉及NLP领域的各个方向，此项目长期不定时更新。
 
-- Paper: [**点击下载**](https://openreview.net/attachment?id=Mos9F9kDwkz&name=pdf)
-- Code: [https://github.com/uclnlp/cqd](https://github.com/uclnlp/cqd)
+>欢迎watch和fork！不过给个star⭐就更好了❤️。
 
-2、Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity
+>知乎地址：[**ShuYini**](https://www.zhihu.com/people/wangjini521/activities)
 
-- Paper: [**点击下载**](https://openreview.net/attachment?id=gvxJzw8kW4b&name=pdf)
-- Code: [https://github.com/snu-mllab/Co-Mixup](https://github.com/snu-mllab/Co-Mixup)
+>微信公众号: [**AINLPer**（**每日更新，欢迎关注**）](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247493926&idx=1&sn=7c3af9a58296f10173b3eba3bec15137&chksm=fac07efacdb7f7ec6f879dad43d5c3dd9af8950ba65faa3cea3f8cbef8208adae2449ec29327&token=890750657&lang=zh_CN#rd)
 
-3、End-to-end Adversarial Text-to-Speech
 
-- Paper: [**点击下载**](https://openreview.net/attachment?id=rsf1z-JSj87&name=pdf)
-- Code: [https://deepmind.com/research/publications/End-to-End-Adversarial-Text-to-Speech](https://deepmind.com/research/publications/End-to-End-Adversarial-Text-to-Speech)
 
-4、Share or Not? Learning to Schedule Language-Specific Capacity for Multilingual Translation
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=Wj4ODo0uyCF&name=pdf)
-- Code: [https://github.com/bzhangGo/zero/tree/iclr2021_clsr](https://github.com/bzhangGo/zero/tree/iclr2021_clsr)
-
-5、When Do Curricula Work?
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=tW4QEInpni&name=pdf)
-- Code: [https://github.com/google-research/understanding-curricula](https://github.com/google-research/understanding-curricula)
-
-6、Parrot: Data-Driven Behavioral Priors for Reinforcement Learning
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=Ysuv-WOFeKR&name=pdf)
-- Code: [https://sites.google.com/view/parrot-rl](https://sites.google.com/view/parrot-rl)
-
-7、An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=YicbFdNTTy&name=pdf)
-- Code: [https://github.com/google-research/vision_transformer](https://github.com/google-research/vision_transformer)
-
-8、Self-training For Few-shot Transfer Across Extreme Task Differences
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=O3Y56aqpChA&name=pdf)
-- Code: [https://github.com/cpphoo/STARTUP](https://github.com/cpphoo/STARTUP)
-
-9、DiffWave: A Versatile Diffusion Model for Audio Synthesis
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=a-xFK8Ymz5J&name=pdf)
-- Code: [https://diffwave-demo.github.io/](https://diffwave-demo.github.io/)
-
-10、Learning Cross-Domain Correspondence for Control with Dynamics Cycle-Consistency
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=QIRlze3I6hX&name=pdf)
-- Code: [https://sjtuzq.github.io/cycle_dynamics.html](https://sjtuzq.github.io/cycle_dynamics.html)
-
-11、A Distributional Approach to Controlled Text Generation
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=jWkw45-9AbL&name=pdf)
-- Code: [https://github.com/naver/gdc](https://github.com/naver/gdc)
-
-12、Gradient Projection Memory for Continual Learning
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=3AOj0RCNC2&name=pdf)
-- Code: [https://github.com/sahagobinda/GPM](https://github.com/sahagobinda/GPM)
-
-13、Rethinking Attention with Performers
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=Ua6zuk0WRH&name=pdf)
-- Code: [github.com/google-research/google-research/tree/master/protein_lm](github.com/google-research/google-research/tree/master/protein_lm)
-
-14、Neural Synthesis of Binaural Speech From Mono Audio
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=uAX8q61EVRu&name=pdf)
-- Code: [https://github.com/facebookresearch/BinauralSpeechSynthesis](https://github.com/facebookresearch/BinauralSpeechSynthesis)
-
-15、Dataset Condensation with Gradient Matching
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=mSAKhLYLSsl&name=pdf)
-- Code: [https://github.com/VICO-UoE/DatasetCondensation](https://github.com/VICO-UoE/DatasetCondensation)
-
-16、Free Lunch for Few-shot Learning:  Distribution Calibration
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=JWOiYxMG92s&name=pdf)
-- Code: [https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration](https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration)
-
-### Accept Spotlight
-
-1、Self-supervised Visual Reinforcement Learning with Object-centric Representations
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=xppLmXCbOw1&name=pdf)
-- Code: [https://martius-lab.github.io/SMORL](https://martius-lab.github.io/SMORL)
-
-2、MARS: Markov Molecular Sampling for Multi-objective Drug Discovery
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=kHSu4ebxFXY&name=pdf)
-- Code: [https://github.com/yutxie/mars.](https://github.com/yutxie/mars.)
-
-3、The Intrinsic Dimension of Images and Its Impact on Learning
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=XJk19XzGq2J&name=pdf)
-- Code: [https://github.com/ppope/dimensions](https://github.com/ppope/dimensions)
-
-4、Orthogonalizing Convolutional Layers with the Cayley Transform
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=Pbj8H_jEHYv&name=pdf)
-- Code: [https://github.com/locuslab/orthogonal-convolutions](https://github.com/locuslab/orthogonal-convolutions)
-
-5、Learning Mesh-Based Simulation with Graph Networks
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=roNqYL0_XP&name=pdf)
-- Code: [https://sites.google.com/view/meshgraphnets](https://sites.google.com/view/meshgraphnets)
-
-6、CPT: Efficient Deep Neural Network Training via Cyclic Precision
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=87ZwsaQNHPZ&name=pdf)
-- Code: [https://github.com/RICE-EIC/CPT](https://github.com/RICE-EIC/CPT)
-
-7、PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=xCcdBRQEDW&name=pdf)
-- Code: [http://plasticinelab.csail.mit.edu](http://plasticinelab.csail.mit.edu)
-
-8、Memory Optimization for Deep Networks
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=bnY0jm4l59&name=pdf)
-- Code: [https://github.com/utsaslab/MONeT](https://github.com/utsaslab/MONeT)
-
-9、Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=w_7JMpGZRh0&name=pdf)
-- Code: [https://virtual-home.org](https://virtual-home.org)
-
-10、HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=_0kaDkv3dVf&name=pdf)
-- Code: [https://github.com/RICE-EIC/HW-NAS-Bench](https://github.com/RICE-EIC/HW-NAS-Bench)
-
-11、Dataset Inference: Ownership Resolution in Machine Learning
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=hvdKKV2yt7T&name=pdf)
-- Code: [https://github.com/cleverhans-lab/dataset-inference](https://github.com/cleverhans-lab/dataset-inference)
-
-12、Learning from Protein Structure with Geometric Vector Perceptrons
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=1YLJDvSx6J4&name=pdf)
-- Code: [https://github.com/drorlab/gvp](https://github.com/drorlab/gvp)
-
-13、Fast Geometric Projections for Local Robustness Certification
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=zWy1uxjDdZJ&name=pdf)
-- Code: [https://github.com/klasleino/fast-geometric-projections](https://github.com/klasleino/fast-geometric-projections)
-
-14、Sharpness-aware Minimization for Efficiently Improving Generalization
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=6Tm1mposlrM&name=pdf)
-- Code: [https://github.com/google-research/sam](https://github.com/google-research/sam)
-
-15、Self-Supervised Policy Adaptation during Deployment
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=o_V-MjyyGV_&name=pdf)
-- Code: [https://nicklashansen.github.io/PAD/](https://nicklashansen.github.io/PAD/)
-
-16、Data-Efficient Reinforcement Learning with Self-Predictive Representations
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=uCQfPZwRaUu&name=pdf)
-- Code: [https://github.com/mila-iqia/spr](https://github.com/mila-iqia/spr)
-
-17、Dynamic Tensor Rematerialization
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=Vfs_2RnOD0H&name=pdf)
-- Code: [https://octoml.ai/](https://octoml.ai/)
-
-18、Model-Based Visual Planning with Self-Supervised Functional Distances
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=UcoXdfrORC&name=pdf)
-- Code: [https://sites.google.com/berkeley.edu/mbold](https://sites.google.com/berkeley.edu/mbold)
-
-19、Regularization Matters in Policy Optimization - An Empirical Study on Continuous Control
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=yr1mzrH3IC&name=pdf)
-- Code: [https://github.com/xuanlinli17/iclr2021_rlreg](https://github.com/xuanlinli17/iclr2021_rlreg)
-
-20、Autoregressive Entity Retrieval
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=5k8F6UU39V&name=pdf)
-- Code: [https://github.com/facebookresearch/GENRE](https://github.com/facebookresearch/GENRE)
-
-21、Neural Approximate Sufficient Statistics for Implicit Models
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=SRDuJssQud&name=pdf)
-- Code: [https://github.com/cyz-ai/neural-approx-ss-lfi](https://github.com/cyz-ai/neural-approx-ss-lfi)
-
-22、Tent: Fully Test-Time Adaptation by Entropy Minimization
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=uXl3bZLkr3c&name=pdf)
-- Code: [https://github.com/DequanWang/tent](https://github.com/DequanWang/tent)
-
-23、Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees?
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=Ut1vF_q_vC&name=pdf)
-- Code: [https://sourceforge.net/p/lemur/wiki/RankLib/](https://sourceforge.net/p/lemur/wiki/RankLib/)
-
-24、A Panda? No, It's a Sloth: Slowdown Attacks on Adaptive Multi-Exit Neural Network Inference
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=9xC2tWEwBD&name=pdf)
-- Code: [https://github.com/Sanghyun-Hong/DeepSloth](https://github.com/Sanghyun-Hong/DeepSloth)
-
-25、Large Scale Image Completion via Co-Modulated Generative Adversarial Networks
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=sSjqmfsk95O&name=pdf)
-- Code: [https://github.com/zsyzzsoft/co-mod-gan](https://github.com/zsyzzsoft/co-mod-gan)
-
-26、Undistillable: Making A Nasty Teacher That CANNOT teach students
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=0zvfm-nZqQs&name=pdf)
-- Code: [https://github.com/VITA-Group/Nasty-Teacher](https://github.com/VITA-Group/Nasty-Teacher)
-
-27、A Good Image Generator Is What You Need for High-Resolution Video Synthesis
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=6puCSjH3hwA&name=pdf)
-- Code: [https://github.com/snap-research/MoCoGAN-HD](https://github.com/snap-research/MoCoGAN-HD)
-
-28、Noise against noise: stochastic label noise helps combat inherent label noise
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=80FMcTSZ6J0&name=pdf)
-- Code: [https://github.com/chenpf1025/SLN](https://github.com/chenpf1025/SLN)
-
-29、Quantifying Differences in Reward Functions
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=LwEQnp6CYev&name=pdf)
-- Code: [https://github.com/HumanCompatibleAI/evaluating-rewards](https://github.com/HumanCompatibleAI/evaluating-rewards)
-
-30、Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=RLRXCV6DbEJ&name=pdf)
-- Code: [https://github.com/openai/vdvae](https://github.com/openai/vdvae)
-
-31、UPDeT: Universal Multi-agent RL via Policy Decoupling with Transformers
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=v9c7hr9ADKx&name=pdf)
-- Code: [https://github.com/hhhusiyi-monash/UPDeT](https://github.com/hhhusiyi-monash/UPDeT)
-
-32、Mutual Information State Intrinsic Control
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=OthEq8I5v1&name=pdf)
-- Code: [https://youtu.be/AUCwc9RThpk](https://youtu.be/AUCwc9RThpk)
-
-33、Long-tailed Recognition by Routing Diverse Distribution-Aware Experts
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=D9I3drBz4UC&name=pdf)
-- Code: [https://github.com/frank-xwang/RIDE-LongTailRecognition](https://github.com/frank-xwang/RIDE-LongTailRecognition)
-
-34、Uncertainty Sets for Image Classifiers using Conformal Prediction
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=eNdiU_DbM9&name=pdf)
-- Code: [https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/conformal-classification](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/conformal-classification)
-
-35、Stabilized Medical Image Attacks
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=QfTXQiGYudJ&name=pdf)
-- Code: [https://github.com/imogenqi/SMA](https://github.com/imogenqi/SMA)
-
-36、Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=Rhsu5qD36cL&name=pdf)
-- Code: [https://github.com/TaikiMiyagawa/SPRT-TANDEM](https://github.com/TaikiMiyagawa/SPRT-TANDEM)
-
-37、Improving Adversarial Robustness via Channel-wise Activation Suppressing
-
-- Paper: [**点击下载**](https://openreview.net/attachment?id=zQTezqCCtNx&name=pdf)
-- Code: [https://github.com/bymavis/CAS_ICLR2021](https://github.com/bymavis/CAS_ICLR2021)
-
-### Accept Poster
+## ICLR2021 Accept Paper With Code
 
 1、Robust Reinforcement Learning on State Observations with Learned Optimal Adversary
 
@@ -1364,3 +1107,271 @@
 - Paper: [**点击下载**](https://openreview.net/attachment?id=H8UHdhWG6A3&name=pdf)
 - Code: [https://elmahdielmhamdi.com/](https://elmahdielmhamdi.com/)
 
+## ICLR2021 Accept Oral With Code
+
+1、Complex Query Answering with Neural Link Predictors
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=Mos9F9kDwkz&name=pdf)
+- Code: [https://github.com/uclnlp/cqd](https://github.com/uclnlp/cqd)
+
+2、Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=gvxJzw8kW4b&name=pdf)
+- Code: [https://github.com/snu-mllab/Co-Mixup](https://github.com/snu-mllab/Co-Mixup)
+
+3、End-to-end Adversarial Text-to-Speech
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=rsf1z-JSj87&name=pdf)
+- Code: [https://deepmind.com/research/publications/End-to-End-Adversarial-Text-to-Speech](https://deepmind.com/research/publications/End-to-End-Adversarial-Text-to-Speech)
+
+4、Share or Not? Learning to Schedule Language-Specific Capacity for Multilingual Translation
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=Wj4ODo0uyCF&name=pdf)
+- Code: [https://github.com/bzhangGo/zero/tree/iclr2021_clsr](https://github.com/bzhangGo/zero/tree/iclr2021_clsr)
+
+5、When Do Curricula Work?
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=tW4QEInpni&name=pdf)
+- Code: [https://github.com/google-research/understanding-curricula](https://github.com/google-research/understanding-curricula)
+
+6、Parrot: Data-Driven Behavioral Priors for Reinforcement Learning
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=Ysuv-WOFeKR&name=pdf)
+- Code: [https://sites.google.com/view/parrot-rl](https://sites.google.com/view/parrot-rl)
+
+7、An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=YicbFdNTTy&name=pdf)
+- Code: [https://github.com/google-research/vision_transformer](https://github.com/google-research/vision_transformer)
+
+8、Self-training For Few-shot Transfer Across Extreme Task Differences
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=O3Y56aqpChA&name=pdf)
+- Code: [https://github.com/cpphoo/STARTUP](https://github.com/cpphoo/STARTUP)
+
+9、DiffWave: A Versatile Diffusion Model for Audio Synthesis
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=a-xFK8Ymz5J&name=pdf)
+- Code: [https://diffwave-demo.github.io/](https://diffwave-demo.github.io/)
+
+10、Learning Cross-Domain Correspondence for Control with Dynamics Cycle-Consistency
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=QIRlze3I6hX&name=pdf)
+- Code: [https://sjtuzq.github.io/cycle_dynamics.html](https://sjtuzq.github.io/cycle_dynamics.html)
+
+11、A Distributional Approach to Controlled Text Generation
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=jWkw45-9AbL&name=pdf)
+- Code: [https://github.com/naver/gdc](https://github.com/naver/gdc)
+
+12、Gradient Projection Memory for Continual Learning
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=3AOj0RCNC2&name=pdf)
+- Code: [https://github.com/sahagobinda/GPM](https://github.com/sahagobinda/GPM)
+
+13、Rethinking Attention with Performers
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=Ua6zuk0WRH&name=pdf)
+- Code: [github.com/google-research/google-research/tree/master/protein_lm](github.com/google-research/google-research/tree/master/protein_lm)
+
+14、Neural Synthesis of Binaural Speech From Mono Audio
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=uAX8q61EVRu&name=pdf)
+- Code: [https://github.com/facebookresearch/BinauralSpeechSynthesis](https://github.com/facebookresearch/BinauralSpeechSynthesis)
+
+15、Dataset Condensation with Gradient Matching
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=mSAKhLYLSsl&name=pdf)
+- Code: [https://github.com/VICO-UoE/DatasetCondensation](https://github.com/VICO-UoE/DatasetCondensation)
+
+16、Free Lunch for Few-shot Learning:  Distribution Calibration
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=JWOiYxMG92s&name=pdf)
+- Code: [https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration](https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration)
+
+## ICLR2021 Accept Spotlight With Code
+
+1、Self-supervised Visual Reinforcement Learning with Object-centric Representations
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=xppLmXCbOw1&name=pdf)
+- Code: [https://martius-lab.github.io/SMORL](https://martius-lab.github.io/SMORL)
+
+2、MARS: Markov Molecular Sampling for Multi-objective Drug Discovery
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=kHSu4ebxFXY&name=pdf)
+- Code: [https://github.com/yutxie/mars.](https://github.com/yutxie/mars.)
+
+3、The Intrinsic Dimension of Images and Its Impact on Learning
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=XJk19XzGq2J&name=pdf)
+- Code: [https://github.com/ppope/dimensions](https://github.com/ppope/dimensions)
+
+4、Orthogonalizing Convolutional Layers with the Cayley Transform
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=Pbj8H_jEHYv&name=pdf)
+- Code: [https://github.com/locuslab/orthogonal-convolutions](https://github.com/locuslab/orthogonal-convolutions)
+
+5、Learning Mesh-Based Simulation with Graph Networks
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=roNqYL0_XP&name=pdf)
+- Code: [https://sites.google.com/view/meshgraphnets](https://sites.google.com/view/meshgraphnets)
+
+6、CPT: Efficient Deep Neural Network Training via Cyclic Precision
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=87ZwsaQNHPZ&name=pdf)
+- Code: [https://github.com/RICE-EIC/CPT](https://github.com/RICE-EIC/CPT)
+
+7、PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=xCcdBRQEDW&name=pdf)
+- Code: [http://plasticinelab.csail.mit.edu](http://plasticinelab.csail.mit.edu)
+
+8、Memory Optimization for Deep Networks
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=bnY0jm4l59&name=pdf)
+- Code: [https://github.com/utsaslab/MONeT](https://github.com/utsaslab/MONeT)
+
+9、Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=w_7JMpGZRh0&name=pdf)
+- Code: [https://virtual-home.org](https://virtual-home.org)
+
+10、HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=_0kaDkv3dVf&name=pdf)
+- Code: [https://github.com/RICE-EIC/HW-NAS-Bench](https://github.com/RICE-EIC/HW-NAS-Bench)
+
+11、Dataset Inference: Ownership Resolution in Machine Learning
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=hvdKKV2yt7T&name=pdf)
+- Code: [https://github.com/cleverhans-lab/dataset-inference](https://github.com/cleverhans-lab/dataset-inference)
+
+12、Learning from Protein Structure with Geometric Vector Perceptrons
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=1YLJDvSx6J4&name=pdf)
+- Code: [https://github.com/drorlab/gvp](https://github.com/drorlab/gvp)
+
+13、Fast Geometric Projections for Local Robustness Certification
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=zWy1uxjDdZJ&name=pdf)
+- Code: [https://github.com/klasleino/fast-geometric-projections](https://github.com/klasleino/fast-geometric-projections)
+
+14、Sharpness-aware Minimization for Efficiently Improving Generalization
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=6Tm1mposlrM&name=pdf)
+- Code: [https://github.com/google-research/sam](https://github.com/google-research/sam)
+
+15、Self-Supervised Policy Adaptation during Deployment
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=o_V-MjyyGV_&name=pdf)
+- Code: [https://nicklashansen.github.io/PAD/](https://nicklashansen.github.io/PAD/)
+
+16、Data-Efficient Reinforcement Learning with Self-Predictive Representations
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=uCQfPZwRaUu&name=pdf)
+- Code: [https://github.com/mila-iqia/spr](https://github.com/mila-iqia/spr)
+
+17、Dynamic Tensor Rematerialization
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=Vfs_2RnOD0H&name=pdf)
+- Code: [https://octoml.ai/](https://octoml.ai/)
+
+18、Model-Based Visual Planning with Self-Supervised Functional Distances
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=UcoXdfrORC&name=pdf)
+- Code: [https://sites.google.com/berkeley.edu/mbold](https://sites.google.com/berkeley.edu/mbold)
+
+19、Regularization Matters in Policy Optimization - An Empirical Study on Continuous Control
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=yr1mzrH3IC&name=pdf)
+- Code: [https://github.com/xuanlinli17/iclr2021_rlreg](https://github.com/xuanlinli17/iclr2021_rlreg)
+
+20、Autoregressive Entity Retrieval
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=5k8F6UU39V&name=pdf)
+- Code: [https://github.com/facebookresearch/GENRE](https://github.com/facebookresearch/GENRE)
+
+21、Neural Approximate Sufficient Statistics for Implicit Models
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=SRDuJssQud&name=pdf)
+- Code: [https://github.com/cyz-ai/neural-approx-ss-lfi](https://github.com/cyz-ai/neural-approx-ss-lfi)
+
+22、Tent: Fully Test-Time Adaptation by Entropy Minimization
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=uXl3bZLkr3c&name=pdf)
+- Code: [https://github.com/DequanWang/tent](https://github.com/DequanWang/tent)
+
+23、Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees?
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=Ut1vF_q_vC&name=pdf)
+- Code: [https://sourceforge.net/p/lemur/wiki/RankLib/](https://sourceforge.net/p/lemur/wiki/RankLib/)
+
+24、A Panda? No, It's a Sloth: Slowdown Attacks on Adaptive Multi-Exit Neural Network Inference
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=9xC2tWEwBD&name=pdf)
+- Code: [https://github.com/Sanghyun-Hong/DeepSloth](https://github.com/Sanghyun-Hong/DeepSloth)
+
+25、Large Scale Image Completion via Co-Modulated Generative Adversarial Networks
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=sSjqmfsk95O&name=pdf)
+- Code: [https://github.com/zsyzzsoft/co-mod-gan](https://github.com/zsyzzsoft/co-mod-gan)
+
+26、Undistillable: Making A Nasty Teacher That CANNOT teach students
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=0zvfm-nZqQs&name=pdf)
+- Code: [https://github.com/VITA-Group/Nasty-Teacher](https://github.com/VITA-Group/Nasty-Teacher)
+
+27、A Good Image Generator Is What You Need for High-Resolution Video Synthesis
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=6puCSjH3hwA&name=pdf)
+- Code: [https://github.com/snap-research/MoCoGAN-HD](https://github.com/snap-research/MoCoGAN-HD)
+
+28、Noise against noise: stochastic label noise helps combat inherent label noise
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=80FMcTSZ6J0&name=pdf)
+- Code: [https://github.com/chenpf1025/SLN](https://github.com/chenpf1025/SLN)
+
+29、Quantifying Differences in Reward Functions
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=LwEQnp6CYev&name=pdf)
+- Code: [https://github.com/HumanCompatibleAI/evaluating-rewards](https://github.com/HumanCompatibleAI/evaluating-rewards)
+
+30、Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=RLRXCV6DbEJ&name=pdf)
+- Code: [https://github.com/openai/vdvae](https://github.com/openai/vdvae)
+
+31、UPDeT: Universal Multi-agent RL via Policy Decoupling with Transformers
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=v9c7hr9ADKx&name=pdf)
+- Code: [https://github.com/hhhusiyi-monash/UPDeT](https://github.com/hhhusiyi-monash/UPDeT)
+
+32、Mutual Information State Intrinsic Control
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=OthEq8I5v1&name=pdf)
+- Code: [https://youtu.be/AUCwc9RThpk](https://youtu.be/AUCwc9RThpk)
+
+33、Long-tailed Recognition by Routing Diverse Distribution-Aware Experts
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=D9I3drBz4UC&name=pdf)
+- Code: [https://github.com/frank-xwang/RIDE-LongTailRecognition](https://github.com/frank-xwang/RIDE-LongTailRecognition)
+
+34、Uncertainty Sets for Image Classifiers using Conformal Prediction
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=eNdiU_DbM9&name=pdf)
+- Code: [https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/conformal-classification](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/conformal-classification)
+
+35、Stabilized Medical Image Attacks
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=QfTXQiGYudJ&name=pdf)
+- Code: [https://github.com/imogenqi/SMA](https://github.com/imogenqi/SMA)
+
+36、Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=Rhsu5qD36cL&name=pdf)
+- Code: [https://github.com/TaikiMiyagawa/SPRT-TANDEM](https://github.com/TaikiMiyagawa/SPRT-TANDEM)
+
+37、Improving Adversarial Robustness via Channel-wise Activation Suppressing
+
+- Paper: [**点击下载**](https://openreview.net/attachment?id=zQTezqCCtNx&name=pdf)
+- Code: [https://github.com/bymavis/CAS_ICLR2021](https://github.com/bymavis/CAS_ICLR2021)
