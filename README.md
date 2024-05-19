@@ -6,7 +6,7 @@
 微信公众号: [**AINLPer**（**每日更新，欢迎关注**）](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247493926&idx=1&sn=7c3af9a58296f10173b3eba3bec15137&chksm=fac07efacdb7f7ec6f879dad43d5c3dd9af8950ba65faa3cea3f8cbef8208adae2449ec29327&token=890750657&lang=zh_CN#rd)
 
 ## 历年ICLR 论文和开源项目合集
-[ICLR 2023 论文和开源项目合集](./ICLR2023-Papers-with-Code)
+[ICLR 2023 论文和开源项目合集](./ICLR2023-Papers-with-Code.md)
 
 
 ### Accept poster
