@@ -9,7 +9,7 @@
 - [**ICLR 2023 论文和开源项目合集**](./ICLR2023-Papers-with-Code.md)
 
 
-### Accept poster
+## ICLR2024 Accept Paper
 
 1、Boosting of Thoughts: Trial-and-Error Problem Solving with Large Language Models
 
@@ -4416,7 +4416,7 @@
 - Paper: [**点击下载**](https://openreview.net/attachment?id=Ny150AblPu&name=pdf)
 - Code: [https://mingzhenhuang.com/projects/InconsisDet.html](https://mingzhenhuang.com/projects/InconsisDet.html)
 
-### Accept spotlight
+## ICLR2024 Accept Spotlight
 
 1、Controlled Text Generation via Language Model Arithmetic
 
@@ -5333,7 +5333,7 @@
 - Paper: [**点击下载**](https://openreview.net/attachment?id=7ERQPyR2eb&name=pdf)
 - Code: [https://real3dportrait.github.io](https://real3dportrait.github.io)
 
-### Accept oral
+## ICLR2024 Accept oral
 
 1、BooookScore: A systematic exploration of book-length summarization in the era of LLMs
 
